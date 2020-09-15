@@ -9,5 +9,6 @@ Current versions of unity no longer support Javascript so you'll minimum need a 
 ## Docs, Details, and Other Info
 This also doubled as my final project in Digital Animation, and the following (public) link has a very cheeky **trailer** I made to highlight the animations for purposes of that class: https://www.facebook.com/slevatich/videos/vb.1058477266/10210512089492676/
 
-**Docs/FinalSubmission/Sam_Levatich_CPSC490_Final_Report.pdf** offers a more detailed look at methodology and learnings.
+**Docs/FinalSubmission/Sam_Levatich_CPSC490_Final_Report.pdf** offers a more detailed look at methodology/learnings.
+
 **Docs/FinalSubmission/README.txt** has gameplay and controls instructions for actually playing. Have fun!
