@@ -3,7 +3,7 @@
 # The Adventures Of Moji
 3D platformer procedurally generated from user input exploring how procedural generation can create delight through randomness management. Senior Thesis Project for BS in Computer Science (Yale)
 
-## Built with Unity 5.5.6f1. 
+## Built with Unity 5.5.6f1 
 Current versions of unity no longer support Javascript so you'll minimum need a version before they dropped that support
 
 ## Docs, Details, and Other Info
