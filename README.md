@@ -1,4 +1,4 @@
-![Screenshot](/Docs/Images/Screen Shot 2017-05-17 at 6.55.19 PM.png)
+![Game Screenshot](/Docs/Images/Screen%20Shot%202017-05-17%20at%206.55.19%20PM.png)
 
 ## Built with Unity 5.5.6f1
 
