@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: ca35acd3dba034886a1b693a466c669a
+timeCreated: 1493777465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Chest
+    100004: Eyes
+    100006: Hair
+    100008: Hair2
+    100010: Hair3
+    100012: Hair4
+    100014: Hair5
+    100016: Hair_2
+    100018: Hair_3
+    100020: Hair_4
+    100022: Hair_5
+    100024: Hair_Base
+    100026: Hair_Base 1
+    100028: Hair_Curve
+    100030: Hair_IK
+    100032: Hair_Tip
+    100034: Hair_Tip 1
+    100036: Head
+    100038: Head 1
+    100040: Hip
+    100042: imagePlane1
+    100044: L_Arm
+    100046: L_Eblow
+    100048: L_Eye
+    100050: L_Foot
+    100052: L_Foot 1
+    100054: L_Hand
+    100056: L_Hand 1
+    100058: L_Knee
+    100060: L_Leg
+    100062: L_Mitt
+    100064: L_Palm
+    100066: L_Thumb
+    100068: L_Thumbnail
+    100070: //RootNode
+    100072: Neck
+    100074: R_Arm
+    100076: R_Elbow
+    100078: R_Eye
+    100080: R_Foot
+    100082: R_Foot 1
+    100084: R_Hand
+    100086: R_Hand 1
+    100088: R_Knee
+    100090: R_Leg
+    100092: R_Mitt
+    100094: R_Palm
+    100096: R_Thum
+    100098: R_Thumbnail
+    100100: Torso
+    100102: Tummy
+    400000: Body
+    400002: Chest
+    400004: Eyes
+    400006: Hair
+    400008: Hair2
+    400010: Hair3
+    400012: Hair4
+    400014: Hair5
+    400016: Hair_2
+    400018: Hair_3
+    400020: Hair_4
+    400022: Hair_5
+    400024: Hair_Base
+    400026: Hair_Base 1
+    400028: Hair_Curve
+    400030: Hair_IK
+    400032: Hair_Tip
+    400034: Hair_Tip 1
+    400036: Head
+    400038: Head 1
+    400040: Hip
+    400042: imagePlane1
+    400044: L_Arm
+    400046: L_Eblow
+    400048: L_Eye
+    400050: L_Foot
+    400052: L_Foot 1
+    400054: L_Hand
+    400056: L_Hand 1
+    400058: L_Knee
+    400060: L_Leg
+    400062: L_Mitt
+    400064: L_Palm
+    400066: L_Thumb
+    400068: L_Thumbnail
+    400070: //RootNode
+    400072: Neck
+    400074: R_Arm
+    400076: R_Elbow
+    400078: R_Eye
+    400080: R_Foot
+    400082: R_Foot 1
+    400084: R_Hand
+    400086: R_Hand 1
+    400088: R_Knee
+    400090: R_Leg
+    400092: R_Mitt
+    400094: R_Palm
+    400096: R_Thum
+    400098: R_Thumbnail
+    400100: Torso
+    400102: Tummy
+    4300000: L_Eye
+    4300002: R_Eye
+    4300004: R_Hand
+    4300006: L_Hand
+    4300008: L_Foot
+    4300010: R_Foot
+    4300012: Head
+    4300014: Torso
+    4300016: Hair
+    7400000: Confusion
+    7400002: Walking
+    7400004: Idling
+    7400006: Running
+    7400008: Whipping
+    7400010: Rising
+    7400012: Falling
+    7400014: Glaring
+    7400016: Shocked
+    7400018: Fighting
+    7400020: Firing
+    7400022: Happiness
+    7400024: Sadness
+    7400026: Flailing
+    7400028: Grapple
+    7400030: Jig
+    7400032: FallingW
+    7400034: FallingR
+    7400036: RisingW
+    7400038: RisingR
+    7400040: Flail
+    9500000: //RootNode
+    13700000: Hair
+    13700002: Head
+    13700004: L_Eye
+    13700006: L_Foot
+    13700008: L_Hand
+    13700010: R_Eye
+    13700012: R_Foot
+    13700014: R_Hand
+    13700016: Torso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Confusion
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walking
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 74
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Walkspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idling
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 166
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Runspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rising
+      takeName: Take 001
+      firstFrame: 251
+      lastFrame: 262
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Falling
+      takeName: Take 001
+      firstFrame: 263
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Glaring
+      takeName: Take 001
+      firstFrame: 301
+      lastFrame: 307
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shocked
+      takeName: Take 001
+      firstFrame: 313
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fighting
+      takeName: Take 001
+      firstFrame: 351
+      lastFrame: 374
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Firing
+      takeName: Take 001
+      firstFrame: 375
+      lastFrame: 376
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Happiness
+      takeName: Take 001
+      firstFrame: 377
+      lastFrame: 383
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sadness
+      takeName: Take 001
+      firstFrame: 401
+      lastFrame: 424
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flailing
+      takeName: Take 001
+      firstFrame: 451
+      lastFrame: 463
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jig
+      takeName: Take 001
+      firstFrame: 527
+      lastFrame: 542
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FallingW
+      takeName: Take 001
+      firstFrame: 263
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Walkspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FallingR
+      takeName: Take 001
+      firstFrame: 263
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Runspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RisingW
+      takeName: Take 001
+      firstFrame: 251
+      lastFrame: 262
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Walkspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RisingR
+      takeName: Take 001
+      firstFrame: 251
+      lastFrame: 262
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Runspeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flail
+      takeName: Take 001
+      firstFrame: 451
+      lastFrame: 458
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Body/Hair
+        weight: 1
+      - path: Body/Head
+        weight: 1
+      - path: Body/L_Eye
+        weight: 1
+      - path: Body/L_Foot
+        weight: 1
+      - path: Body/L_Hand
+        weight: 1
+      - path: Body/R_Eye
+        weight: 1
+      - path: Body/R_Foot
+        weight: 1
+      - path: Body/R_Hand
+        weight: 1
+      - path: Body/Torso
+        weight: 1
+      - path: Eyes
+        weight: 1
+      - path: Hair_Base
+        weight: 1
+      - path: Hair_Base/Hair_2
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5
+        weight: 1
+      - path: Hair_Base/Hair_2/Hair_3/Hair_4/Hair_5/Hair_Tip
+        weight: 1
+      - path: Hair_Curve
+        weight: 1
+      - path: Hair_IK
+        weight: 1
+      - path: Hip
+        weight: 1
+      - path: Hip/L_Leg
+        weight: 1
+      - path: Hip/L_Leg/L_Knee
+        weight: 1
+      - path: Hip/L_Leg/L_Knee/L_Foot 1
+        weight: 1
+      - path: Hip/R_Leg
+        weight: 1
+      - path: Hip/R_Leg/R_Knee
+        weight: 1
+      - path: Hip/R_Leg/R_Knee/R_Foot 1
+        weight: 1
+      - path: Hip/Tummy
+        weight: 1
+      - path: Hip/Tummy/Chest
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Palm/L_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb
+        weight: 1
+      - path: Hip/Tummy/Chest/L_Arm/L_Eblow/L_Hand 1/L_Thumb/L_Thumbnail
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5
+        weight: 1
+      - path: Hip/Tummy/Chest/Neck/Head 1/Hair_Base 1/Hair2/Hair3/Hair4/Hair5/Hair_Tip
+          1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Palm/R_Mitt
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum
+        weight: 1
+      - path: Hip/Tummy/Chest/R_Arm/R_Elbow/R_Hand 1/R_Thum/R_Thumbnail
+        weight: 1
+      - path: imagePlane1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
